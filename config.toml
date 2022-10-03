@@ -61,7 +61,6 @@ pygmentsCodefencesGuessSyntax = true
   soundcloud = "username"
   spotify = "username"
   telegram = "username"
-  500px = "username"
   codepen = "username"
   mastodon = "url"
   slack = "username"
